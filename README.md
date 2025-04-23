@@ -1,4 +1,4 @@
-I am a software engineer who enjoys building robust backend systems and simplifying infrastructure.
+I am a software engineer who enjoys building robust backend systems and simplifying infrastructure. \
 My work spans backend APIs, cloud deployments, and automation. I prefer minimal tooling, clean code, and systems that scale.
 
 ---
@@ -18,12 +18,8 @@ My work spans backend APIs, cloud deployments, and automation. I prefer minimal 
 
 ### 📫 Connect
 
-- 🌐 [akshitsingh.com](https://akshitsingh.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/akshitsingh)  
-- 📬 [Email](mailto:contact@akshitsingh.com)
+- [Portfolio](https://akshitsingh.com) • [LinkedIn](https://linkedin.com/in/ssinghakshit) • [Email](mailto:akshit@akshitsingh.com.np)
 
 ---
 
 ~ Akshit
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
